@@ -1,0 +1,253 @@
+CommandEvent,en,uk
+EventTitle1001,[Mayor],[Мер]
+EventTitle1002,[Find Mole],[Знайти крота]
+EventTitle1003,[Mayor],[Мер]
+EventTitle1004,[Find Chef],[Знайти Шеф-кухаря]
+EventTitle1005,[Scout],[Скаут]
+EventTitle1006,[Don],[Дон]
+EventTitle1007,[Mr. Bucktooth],[пан Зубастик]
+EventTitle1008,[Mayor],[Мер]
+EventTitle1009,[Mayor],[Мер]
+EventTitle1010,[Chef],[Шеф-кухар]
+EventTitle1011,[Sous Chef],[Соус-шеф]
+EventTitle1012,[Mayor],[Мер]
+EventTitle1013,[Fortune Teller],[Ворожка]
+EventTitle1014,[Watch Show],[Дивитися шоу]
+EventTitle1015,[Smuggler],[Контрабандист]
+EventTitle1016,[Barracks],[Казарми]
+EventTitle1017,[Apple Orchard],[Яблуневий сад]
+EventTitle1018,[Boiler Room],[Котельня]
+Evt1018_If0_Then0_Hint0,"The boiler room attendant informs you that the boiler$STR_2s now in working order, and thanks you again for your help.","Начальник котельні повідомляє, що котел$STR_2s зараз справний, і ще раз дякує за допомогу."
+EventTitle1019,[Realtor],[Ріелтор]
+EventTitle1020,[Barbecue],[Барбекю]
+EventTitle1021,[Movie Theater],[Кінотеатр]
+EventTitle1022,[Pond],[Ставок]
+EventTitle1023,[Farmer's Wife],[Дружина фермера]
+EventTitle1024,[Explorer],[Провідник]
+EventTitle1025,[Mine],[Шахта]
+EventTitle1026,[Treasure Map],[Карта скарбів]
+EventTitle1027,[Treasure Map],[Карта скарбів]
+EventTitle1028,[Farm],[Ферма]
+EventTitle1029,[High Command],[Верховне командування]
+EventTitle1030,[Communications Director],[Директор з комунікацій]
+EventTitle1031,[Rally Point 1],[Точка збору 1]
+EventTitle1032,[Rally Point 2],[Точка збору 2]
+EventTitle1033,[Rally Point 3],[Точка збору 3]
+EventTitle1034,[The Final Battle],[Остання битва]
+EventTitle1035,[Mayor],[Мер]
+EventTitle1036,[Canvass],[Полотно]
+EventTitle1037,[Ex-Mayor],[Екс-мер]
+EventTitle1038,[Ex-Mayor],[Екс-мер]
+EventTitle1039,[Head Mechanic],[Головний механік]
+EventTitle1040,[Recycle Junk],[Відвідайти СТО]
+EventTitle1041,[Carzaar],[Карзаар]
+EventTitle1042,[Camp],[Табір]
+EventTitle1043,[Slave Trader],[Работорговець]
+EventTitle1044,[Deliver Order],[Доставити замовлення]
+EventTitle1045,[Deliver Order],[Доставити замовлення]
+EventTitle1046,[Deliver Food],[Доставити їжу]
+EventTitle1047,[Deliver Food],[Доставити їжу]
+EventTitle1048,[Ministry of Agriculture],[Міністерство сільського господарства]
+EventTitle1049,[Forestry Department],[Відділ лісового господарства]
+EventTitle1050,[Watch Protest],[Дивитися протест]
+EventTitle1051,[City Hall],[Ратуша]
+EventTitle1052,[Casino],[Казино]
+EventTitle1053,[City Hall],[Ратуша]
+EventTitle1054,[Refugee Leader],[Лідер біженців]
+EventTitle1055,[Mayor],[Мер]
+EventTitle1056,[Town Hall],[Ратуша]
+EventTitle1057,[Refugee Camp],[Табір біженців]
+EventTitle1058,[City Hall],[Ратуша]
+EventTitle1059,[City Hall],[Ратуша]
+EventTitle1060,[Underground Facility],[Підземний заклад]
+EventTitle1061,[Convenience Store],[Комбінезон]
+EventTitle1062,[Field],[Поле]
+EventTitle1063,[Shed],[Сарай]
+EventTitle1064,[Pharmacy],[Аптека]
+EventTitle1065,[Investigate],[Дослідити]
+EventTitle1066,[Entrance],[Вхід]
+EventTitle1067,[Backstage],[За лаштунками]
+EventTitle1068,[Pierrot],[П'єро]
+EventTitle1069,[Start Truck],[Завести вантажівку]
+EventTitle1070,[Instructor],[Інструктор]
+EventTitle1071,[Trailer Workshop],[Майстерня трейлерів]
+EventTitle1072,[Talent Scout],[Розвідувач талантів]
+EventTitle9491,Apartments,Квартири
+EventTitle900,Camp,Табір
+Evt900_If0_Then0_Hint0,"Your camp is approached by local busybodies. They tell you that this is a no-parking zone. If you want to sleep, go to the city Inn.","До вашого табору підійшли місцеві. Вам кажуть, що це заборонена для паркування зона. Якщо хочеш спати, йди до міської корчми."
+EventTitle901,Rest,Відпочити
+EventTitle902,Set Out,Вирушити
+EventTitle903,Engine Temperature,Охолодити двигун
+EventTitle904,Check Tires,Перевірити шини
+EventTitle905,Collect Rainwater,Збирати дощову воду
+EventTitle906,Back to City,Назад до міста
+EventTitle907,Stop,Стоп
+EventTitle908,Repair,Ремонт
+EventTitle909,Sleep,Сон
+EventTitle910,Bar,Бар
+Evt910_If0_Then0_Random0_Seq0_Hint0,One of your truckers caused a ruckus in the Bar. The owner kicked you all to the curb.,Один із ваших далекобійників спричинив галас у барі. Господар вигнав вас усіх на бордюр.
+EventTitle911,Store,Магазин
+EventTitle912,Leave City,Покинути місто
+EventTitle913,Repair Shop,СТО
+Evt913_If0_Then0_Random0_Seq0_Hint0,"Upon entering the Repair Shop, one of your truckers immediately started touching things. After breaking something important-looking, the annoyed mechanic tossed you out.","Увійшовши в ремонтну майстерню, один із ваших далекобійників відразу почав чіпати речі. Зламавши щось важливе на вигляд, роздратований механік викинув вас."
+EventTitle914,Library,Бібліотека
+EventTitle915,City Details,Деталі міста
+EventTitle916,Search,Пошук
+EventTitle9161,Search City,Пошук міста
+EventText9161,"If a city$STR_2s Salvage Level is greater than 0, you can search it for supplies.","Якщо рівень Захламованості міста$STR_2s більший за 0, ви можете шукати в ньому запаси."
+Evt9161_Select0,[Search hastily],[Поспішно шукати]
+Evt9161_Select0_If0_Else0_Hint0,Your hasty search was interrupted. You were unable to find any supplies.,Ваші поспішні пошуки перервано. Ви не змогли знайти жодних матеріалів.
+Evt9161_Select1,[Search carefully],[Шукати уважно]
+Evt9161_Select2,[Leave],[Залишити]
+EventTitle917,Extract Fuel,Видобуток палива
+EventText917,This facility's drilling equipment seems to be still operational. You might be able to extract some Fuel.,"Схоже, що бурове обладнання цього закладу все ще працює. Можливо, ви зможете видобути трохи палива."
+Evt917_Select0,[Surface extraction] (33% chance of success),[Поверхневе буріння] (33% шансів на успіх)
+Evt917_Select0_Random0_Seq0_Hint0,"Drill as you might, you$STR_2re unable to find any Fuel. Try again?","Як би ви не бурили, ви$STR_2не можете знайти жодного палива. Спробувати знову?"
+Evt917_Select1,[Deep extraction] (75% chance of success),[Глибоке буріння] (75% шансів на успіх)
+Evt917_Select1_Random0_Seq0_Hint0,"Drill as you might, you$STR_2re unable to find any Fuel. Try again?","Як би ви не бурили, ви$STR_2не можете знайти жодного палива. Спробувати знову?"
+Evt917_Select2,[Leave],[Залишити]
+EventTitle918,Hunt,Полювання
+EventText918,"You arrive at an abandoned farmstead, now teeming with animals. It$STR_2d be a good place to do some hunting.","Ви потрапляєте на покинуту садибу, де зараз кишить тваринами. $STR_2 це гарне місце для полювання."
+Evt918_Select0,[Hunt quickly] (33% chance of success),[Полювати швидко] (33% шансів на успіх)
+Evt918_Select0_Random0_Seq0_Hint0,"You stomp around the farm, making a ton of noise. You$STR_2re unable to find any game. Must$STR_2ve scared them off.","Ви тупцюєте по фермі, створюючи тону шуму. Ви$STR_2не можете знайти жодної здобичі. Мабуть$STR_2 їх відлякав."
+Evt918_Select1,[Hunt carefully] (66% chance of success),[Уважно полювати] (66% шансів на успіх)
+Evt918_Select1_Random0_Seq0_Hint0,"You carefully stalk around the farmstead, but are unable to find any game. Must$STR_2ve made too much noise.","Ви ретельно ходите по садибі, але не можете знайти жодної дичини. Напевно$STR_2зробив забагато шуму."
+Evt918_Select2,[Leave],[Залишити]
+EventTitle919,Furniture Recycling,Переробка меблів
+EventText919,This city has a bunch of discarded old furniture lying around. You might be able to extract some useful materials from them.,"У цьому місті валяється купа викинутих старих меблів. Можливо, ви зможете витягнути з них деякі корисні матеріали."
+Evt919_Select0,[Hastily strip them for parts] (33% chance of success),[Поспіхом розібрати їх на частини] (33% шансів на успіх)
+Evt919_Select0_Random0_Seq0_Hint0,The furniture is so rusted through that it crumbles at your touch.,"Меблі наскрізь проржавіли, що розсипаються від дотику."
+Evt919_Select1,[Carefully disassemble them] (66% chance of success),[Обережно розібрати їх] (66% шансів на успіх)
+Evt919_Select1_Random0_Seq0_Hint0,The furniture is so rusted through that it crumbles at your touch.,"Меблі наскрізь проржавіли, що розсипаються від дотику."
+Evt919_Select2,[Leave],[Залишити]
+EventTitle920,Disassemble Debris,Демонтажні роботи
+EventText920,"There are a ton of abandoned buildings in the city. With a little demolition work, we could salvage some useful materials.","У місті маса покинутих будівель. Провівши невеликі демонтажні роботи, ми могли б врятувати деякі корисні матеріали."
+Evt920_Select0,[Sledgehammer time] (33% chance of success),[Час кувалди] (33% шансів на успіх)
+Evt920_Select0_Random0_Seq0_Hint0,The buildings are so old that none of the materials you find are in usable condition.,"Будинки настільки старі, що жоден із знайдених матеріалів не придатний для використання."
+Evt920_Select1,[Carefully dismantle them] (66% chance of success),[Обережно розібрати їх] (66% шансів на успіх)
+Evt920_Select1_Random0_Seq0_Hint0,The buildings are so old that none of the materials you find are in usable condition.,"Будинки настільки старі, що жоден із знайдених матеріалів не придатний для використання."
+Evt920_Select2,[Leave],[Залишити]
+EventTitle921,Well,Криниця
+EventText921,You come upon an old abandoned well. You're not sure if it still has any water.,"Ви натрапили на старий занедбаний криницю. Ви не впевнені, чи в ньому ще є вода."
+Evt921_Select0,[Draw water] (50% chance of success),[Набрати води] (50% шансів на успіх)
+Evt921_Select0_Random0_Seq0_Hint0,There's so little water in the well that you have trouble getting any of it in the bucket.,"В криниці так мало води, що її важко набрати у відро."
+Evt921_Select1,Cancel,Скасувати
+EventTitle922,Produce Materials,Виготовляти матеріали
+EventText922,"This ancient facility is somehow still operational, though you aren$STR_2t entirely sure how it works.","Цей стародавній об’єкт чомусь досі працює, хоча ви не$STR_2повністю впевнені, як він працює."
+Evt922_Select0,[Mash buttons] (33% chance of success),[Понажимати кнопки] (33% шансів на успіх)
+Evt922_Select0_Random0_Seq0_Hint0,You spend some time mashing random buttons. Nothing happens.,Ви витрачаєте деякий час на натискання випадкових кнопок. Нічого не відбувається.
+Evt922_Select1,[Figure out how it works] (66% chance of success),"[Дізнатися, як це працює] (66% шансів на успіх)"
+Evt922_Select1_Random0_Seq0_Hint0,"You carefully study the machinery and manage to get it operational, but it malfunctions.","Ви уважно вивчаєте техніку і вдається привести її в робочий стан, але вона дає збій."
+Evt922_Select2,[Leave],[Залишити]
+EventTitle923,Produce Tires,Виробляти шини
+EventText923,"This ancient facility is somehow still operational, though you aren$STR_2t entirely sure how it works.","Цей стародавній об’єкт чомусь досі працює, хоча ви не$STR_2повністю впевнені, як він працює."
+Evt923_Select0,[Produce Tires],[Виробництво Шин]
+Evt923_Select1,[Leave],[Залишити]
+EventTitle9239,Scavenge Pig Iron,Збирати чавун
+EventText9239,"Even if a city$STR_2s Salvage Level is 0, you can still search it for Pig Iron.","Навіть якщо рівень Захламованості міста$STR_2s дорівнює 0, ви все одно можете шукати в ньому чавун."
+Evt9239_Select0,[Search hastily],[Поспішно шукати]
+Evt9239_Select1,[Search carefully],[Шукати уважно]
+Evt9239_Select2,[Leave],[Залишити]
+EventTitle924,Produce Alcohol,Виробляти алкоголь
+EventText924,"This ancient facility is somehow still operational, though you aren$STR_2t entirely sure how it works.","Цей стародавній об’єкт чомусь досі працює, хоча ви не$STR_2повністю впевнені, як він працює."
+Evt924_Select0,[Produce Alcohol],[Виробництво Алкоголю]
+Evt924_Select1,[Leave],[Залишити]
+EventTitle925,Produce Building Materials,Виробництво Будівельних матеріалів
+EventText925,"This ancient facility is somehow still operational, though you aren$STR_2t entirely sure how it works.","Цей стародавній об’єкт чомусь досі працює, хоча ви не$STR_2повністю впевнені, як він працює."
+Evt925_Select0,[Produce Building Materials],[Виробництво Будівельних матеріалів]
+Evt925_Select1,[Leave],[Залишити]
+EventTitle926,Produce Ammo,Виробляти Патрони
+EventText926,You find a strange machine that seems to turn Scrap into Ammo.,"Ви знаходите дивну машину, яка, здається, перетворює брухт на боєприпаси."
+Evt926_Select0,[Mash buttons] (50% chance of success),[Понажимати кнопки] (50% шансів на успіх)
+Evt926_Select0_Random0_Seq0_Hint0,You insert your Scrap into the receptacle and start mashing buttons. Nothing happens.,Ви вставляєте свій брухт у контейнер і починаєте нажимати випадкові кнопки. Нічого не відбувається.
+Evt926_Select1,[Figure out how it works] (66% chance of success),"[Дізнайтися, як це працює] (66% шансів на успіх)"
+Evt926_Select1_Random0_Seq0_Hint0,"You insert your Scrap into the receptacle and manage to get the machine started, but it malfunctions.","Ви вставляєте свій брухт у контейнер, і вам вдається запустити машину, але вона не працює."
+Evt926_Select2,[Leave],[Залишити]
+EventTitle9265,Light My Fire,Розпалаити вогонь
+EventText9265,You've got a fire going. What do you want to do?,У вас розгорівся вогонь. що ти хочеш зробити?
+Evt9265_Select0,[Purify water],[Очистити воду]
+Evt9265_Select1,[Sterilize water],[Стерилізувати воду]
+Evt9265_Select2,[Boil water],[Кип'ятити воду]
+Evt9265_Select3,[Make charcoal],[Зробити деревне вугілля]
+Evt9265_Select4,[Cancel],[Скасувати]
+EventTitle927,Research Blueprints,Дослідити креслення
+EventText927,There's an abandoned pre-Fall facility in this city. You might be able to learn something from it.,"У цьому місті є занедбане підприємство ще до осені. Можливо, ви зможете чомусь навчитися з цього."
+Evt927_Select0,[Study],[Дослідження]
+Evt927_Select1,[Leave],[Залишити]
+EventTitle9276,Road Builder,Будівельник доріг
+Evt9276_If0_Else0_Hint0,Download the DLC to experience this content.,Вміст DLC незабаром з’явиться!
+EventTitle928,Trade,Бартер
+EventText928,"At the center of the city, a group of scavengers have set up camp in a well-fortified building. You might be able to strike a deal with them.","У центрі міста група сміттярів розбила табір у добре укріпленій будівлі. Можливо, ви зможете укласти з ними угоду."
+Evt928_Select0,[Negotiate],[Домовлятися]
+Evt928_Select1,[Leave],[Залишити]
+EventTitle929,Work,Робота
+EventTitle930,Manage City,Керувати містом
+EventTitle931,Inn,Корчма
+Evt931_If0_Then0_Random0_Seq0_Hint0,A member of your Crew stunk so bad that you were all kicked out of the Inn.,"Член вашої команди так смердів, що вас усіх вигнали з корчми."
+EventTitle932,Forage,Заготівля
+EventText932,This forest seems rich in resources. What do you want to do?,Цей ліс здається багатим на ресурси. що ти хочеш робити
+Evt932_Select0,[Forage for food],[Шукати їжу]
+Evt932_Select0_If0_Else0_Hint0,"You think you$STR_2ve found some nuts, but it turns out to just be a pile of weirdly-shaped rocks. Doesn$STR_2t seem like there$STR_2s much food to be foraged here. ","Ви думаєте, $STR_2що знайшли горіхи, але виявляється, що це просто купа каміння дивної форми. Чи не$STR_2здається, що тут $STR_2багато їжі, яку можна знайти? "
+Evt932_Select1,[Cut wood],[Рубати дрова]
+Evt932_Select1_If0_Else0_Hint0,Your crew is too hungry or fatigued to cut wood.,"Ваша команда занадто голодна або втомлена, щоб рубати дрова."
+Evt932_Select2,[Leave],[Залишити]
+EventTitle933,Collect Water,Зібрати воду
+EventText933,"This river, being a river, has a lot of water. Surely it can afford to share some with you?","Ця річка, будучи річкою, багатоводна. Звичайно, вона може дозволити собі поділитися з вами?"
+Evt933_Select0,[Draw water],[Набрати води]
+Evt933_Select1,[Leave],[Залишити]
+EventTitle934,Depot,Депо
+EventTitle935,Bank,Банк
+EventTitle936,Camp,Табір
+EventText936,Your crew has set up camp and is seated around the campfire. What now?,Ваша команда розбила табір і сидить навколо багаття. що тепер?
+Evt936_Select0,[Party],[Вечірка]
+Evt936_Select1,[Hook up],[Переспати]
+Evt936_Select2,[Share knowledge],[Поділитися знаннями]
+Evt936_Select3,[Repair robots],[Ремонт роботів]
+Evt936_Select4,Never mind.,Неважливо.
+EventTitle937,Crimes,Злочини
+EventTitle938,Forecast,Прогноз
+EventTitle939,Trade,Торгівля
+EventTitle940,Catch a Show,Спіймати шоу
+EventTitle941,Recruit,Рекрут
+EventTitle942,Arena,Арена
+EventTitle943,Recruit,Рекрут
+EventTitle944,Honk Horn,Сигналити
+EventTitle945,Watch Sunrise,Милуватися Сходом сонця
+Evt945_Hint0,"You stop to watch a gorgeous sunrise. Alright, time to get back to murder and mayhem. (Stress reduced)","Ви зупиняєтеся, щоб спостерігати чудовий схід сонця. Гаразд, час повернутися до вбивств і хаосу. (Стрес зменшено)"
+EventTitle946,Watch Sunset,Спостерігати Захід сонця
+Evt946_Hint0,The beautiful sunset bathes you in its orange glow. (Stress reduced),Чудовий захід купає вас у своєму помаранчевому сяйві. (Стрес зменшено)
+EventTitle947,Admire Moon,Помилуватися Місяцем
+Evt947_Hint0,The moon's lovely tonight. You feel like you could look at it for eternity. (Stress slightly reduced),"Сьогодні ввечері місяць прекрасний. Ви відчуваєте, що можете дивитися на це вічність. (Стрес трохи зменшено)"
+EventTitle948,CB Radio,CB радіо
+EventTitle949,Apartment,Квартира
+Evt949_Sequence0_Hint0,"It$STR_2s nice sleeping in your own apartment, but it$STR_2s no VIP suite.","$STR_2Приємно спати у власній квартирі, але $STR_2це не VIP-люкс."
+EventTitle950,Scavengers,Сміттярі
+EventTitle951,Scavenge Books,Шукати книги
+EventText951,You might be able to find some useful books in the city's old library.,"Можливо, ви знайдете корисні книги в старій бібліотеці міста."
+Evt951_Select0,[Search thoroughly],[Ретельно шукайти]
+Evt951_Select0_Random0_Seq0_Hint0,You find a few books.,Ви знайшли кілька книжок.
+Evt951_Select0_Random0_Seq1_Hint0,You find a ton of books.,Ви знайшли тонну книг.
+Evt951_Select1,[Search hastily],[Поспішно шукати]
+Evt951_Select1_Random0_Seq0_Hint0,You find a few books.,Ви знайшли кілька книжок.
+Evt951_Select1_Random0_Seq1_Hint0,You don't find anything useful.,Ви не знайшли нічого корисного.
+Evt951_Select2,Forget it.,Забудь це.
+EventTitle952,Kitchen,Кухня
+EventText952,"Are you going to cook something, or just boil water?","Ти збираєшся щось готовити, чи просто кип'ятити воду?"
+Evt952_Select0,[Cook],[Зготувати]
+Evt952_Select1,[Start fire],[Розвести вогонь]
+Evt952_Select2,Forget it.,Забудь це.
+EventTitle953,Fish,Рибачити
+EventText953,This river looks like it's teeming with fish.,"Здається, ця річка кишить рибою."
+Evt953_Select0,[Fish] (Takes 30 minutes to set up),[Риба] (Налаштуватися на риболовлю займає 30 хвилин)
+Evt953_Select1,[Quick catch],[Швидка ловля]
+Evt953_Select2,[Leave],[Залишити]
+EventTitle955,Hunt,Полювання
+EventText955,"This forest is teeming with game. Finally, a chance to shoot something that won$STR_2t shoot back.","Цей ліс кишить дичиною. Нарешті у вас є можливість вистрілити в те, що виграє$STR_2t у відповідь."
+Evt955_Select0,[Hunt],[Полювання]
+Evt955_Select1,[Leave],[Залишити]
+EventTitle957,Set Up Stall,Розгорнути кіоск
+EventTitle958,Kitchen,Кухня
+EventText958,It's not good for your health to be eating canned food all the time. Why not whip up something nicer?,Некорисно для здоров’я постійно їсти консерви. Чому б не приготувати щось приємніше?
+Evt958_Select0,[Cook],[Кухар]
+Evt958_Select1,[Start a fire],[Розпалити вогонь]
+Evt958_Select2,[Leave],[Залишити]
