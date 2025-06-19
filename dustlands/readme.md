@@ -5,4 +5,3 @@ v1 19.06
 
 - 📊 Total files with missing translations: 2
 - 📊 Total rows with missing translations: 4460
-- 📄 Report saved to: missing_translations_report.csv
